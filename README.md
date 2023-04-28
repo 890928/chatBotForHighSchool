@@ -15,3 +15,5 @@ cmd - npm Start
 choose your Env (Borwse or Andiord or Ios)
 
 ## BackEnd-Python Flask
+
+python main.py
