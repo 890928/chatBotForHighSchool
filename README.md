@@ -19,3 +19,7 @@ choose your Env (Borwse or Andiord or Ios)
 ## BackEnd-Python Flask
 
 python main.py
+
+## 作者
+
+廖致翰
