@@ -1,6 +1,6 @@
 # chatBotForHighSchool
 
-高職學生升學診斷聊天機器人A
+高職學生升學診斷聊天機器人App
 
 ## FontEnd-RaactNative
 
